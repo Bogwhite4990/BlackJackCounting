@@ -714,7 +714,7 @@ class MainWindow(Tk):
         self.logo_label.place(x=290, y=2)
 
         # Copyright
-        self.label_copyright = Button(text="2022 Copyright v1.0", background=BACKGROUND_COLOR, command=open_web_browser)
+        self.label_copyright = Button(text="2023 Copyright v1.0", background=BACKGROUND_COLOR, command=open_web_browser)
         self.label_copyright.place(x=675, y=825)
 
 
